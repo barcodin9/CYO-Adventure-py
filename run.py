@@ -2,7 +2,7 @@ print('''Your friend Hannah has been missing for 3 weeks now.
       Gone, vanished without a trace. 
       You missed a call from her tonight, 3 weeks after she disappeared, she sounded scared and frantic.
       She said "I've been taken, I don't know where I am, I have shared my location with you, 
-      please help..." then there was a bang and scream before the line went dead.
+      please help..." then there was a bang and a loud scream before the line went dead.
 
       You went to the police, but they didn't pay it any mind. It's your job to find her.
       
